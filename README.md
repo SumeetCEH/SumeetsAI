@@ -1,2 +1,2 @@
 # SumeetsAI
-Artifical Intelligence Projects
+Artifical Intelligence Projects using Machine Learning & Deep Learning
